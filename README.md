@@ -9,3 +9,8 @@ The convolutional layer is integrated as a Pytorch Geometric Module. It is based
 -  https://github.com/WhiteNoyse/SiGCN/blob/master/models/spectral_nn.py
 
 It uses the Jacobi method for an approximate eigen decomposition
+
+## Requirements
+
+- Pytorch Geometric
+
